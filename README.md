@@ -5,7 +5,7 @@
 <p align="center">
     <strong>Experienced in Android Developement using Java and Kotlin, Blockchain Development, Computer Vision (Open CV), Computer Networks, Virtualization for Cloud Computing and Big Data, Data Science, Machine Leaning, and Quantum Computing.</strong>
     <details>
-        <summary><span style="color:green"><strong>Languages:</strong></span></summary>
+        <summary><strong><h5>Languages:</h5></span></summary>
         <ul><li>Java</li><li>Kotlin</li></ul>
             </details>
 </p>
