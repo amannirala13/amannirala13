@@ -2,7 +2,8 @@
 
 <p align="center">
     <img src="https://i.ibb.co/F7K3p5N/amannirala13-namaste-light.jpg" alt="Namaste!"/>
-    <h6 align="center">Languages:&nbsp &nbsp <strong>Java</strong>,<strong> &nbsp Kotlin</strong>,<strong> &nbsp Python</strong>,<strong> &nbsp C/C++</strong>,<strong> &nbsp JavaScript</strong>,<strong> &nbsp Shell</strong>.<br>Tech:&nbsp &nbsp <strong>&nbsp Android</strong>,<strong> &nbsp Blockchain</strong>,<strong> &nbsp AR</strong>,<strong> &nbsp UI/UX</strong>,<strong > &nbsp Computer Vision</strong>.</h6>
+    <img src="https://i.ibb.co/FKzBPJS/amannirala13-languages.jpg" alt="Languages"/>
+    <h6 align="center">Tech:&nbsp &nbsp <strong>&nbsp Android</strong>,<strong> &nbsp Blockchain</strong>,<strong> &nbsp AR</strong>,<strong> &nbsp UI/UX</strong>,<strong > &nbsp Computer Vision</strong>.</h6>
 </p>
 
 <!--
