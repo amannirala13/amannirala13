@@ -1,4 +1,14 @@
-### Hi there 👋
+### 
+
+![My Avatar](assets\myAvatar.png)
+
+<p>
+    <h2 align=center>
+     <strong>Hi there 👋</strong>   
+</h2>
+</p>
+
+
 
 <!--
 **amannirala13/amannirala13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
