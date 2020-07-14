@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="assets/namaste.png" alt="Namaste!"/>
-</p>
+![Namaste](assets\namaste.png)
 
 
 
