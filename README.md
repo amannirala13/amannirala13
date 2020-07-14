@@ -2,7 +2,6 @@
 
 <p align="center">
     <img src="https://i.ibb.co/0Z9ZSQb/amannirala-namaste-light.jpg" alt="Namaste!"/>
-    <img src="https://i.ibb.co/bgjTbcL/amanirala13-lang-tech.jpg" alt="Languages"/>
     <h6 align="center">Tech:&nbsp &nbsp <strong>&nbsp Android</strong>,<strong> &nbsp Blockchain</strong>,<strong> &nbsp AR</strong>,<strong> &nbsp UI/UX</strong>,<strong > &nbsp Computer Vision</strong>.</h6>
 </p>
 
