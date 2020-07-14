@@ -1,4 +1,4 @@
-![Namaste](assets\namaste.png)
+![Namaste](assets/namaste.png)
 
 
 
