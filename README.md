@@ -1,6 +1,6 @@
 ### 
 
-![My Avatar](\assets\myAvatar.png)
+![My Avatar](assets/myAvatar.png)
 
 <p>
     <h2 align=center>
