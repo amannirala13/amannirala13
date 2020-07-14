@@ -4,8 +4,9 @@
     <img src="https://i.ibb.co/F7K3p5N/amannirala13-namaste-light.jpg" alt="Namaste!"/>
 <p align="center">
     <strong>Experienced in Android Developement using Java and Kotlin, Blockchain Development, Computer Vision (Open CV), Computer Networks, Virtualization for Cloud Computing and Big Data, Data Science, Machine Leaning, and Quantum Computing.</strong>
-    <details><summary>## Languages:</summary>
-                <ul><li>Java</li><li>Kotlin</li></ul>
+    <details>
+        <summary><span style="color:green"><strong>Languages:</strong></span></summary>
+        <ul><li>Java</li><li>Kotlin</li></ul>
             </details>
 </p>
 
