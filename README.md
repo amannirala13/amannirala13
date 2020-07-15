@@ -4,20 +4,81 @@
 </p><br>
 
 
- <details>
+ <details align="center">
     <summary><strong>Programming Languages:</strong></summary>
-     <ul><li><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"> Java</li><li><img src="https://i.ibb.co/8BvfsCp/kotlin.png" alt="kotlin" border="0"> Kotlin</li><li><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"> Python</li><li><img src="https://img.icons8.com/color/24/000000/c-programming.png"/> C</li><li><img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/> C++</li><li><img src="https://i.ibb.co/gTdhjV3/matlab.png"/> Matlab</li><li><img src="https://i.ibb.co/P9K1CDZ/c-sharp.png"/> C#</li><li><img src="https://i.ibb.co/hBz8LSr/q-sharp.png"/> Q#</li><li><img src="https://img.icons8.com/color/24/000000/javascript.png"/> JavaScript</li><li><img src="https://img.icons8.com/color/24/000000/typescript.png"/> TypeScript</li><li><img src="https://i.ibb.co/GpjMcGZ/dart.png" alt="dart" border="0"> Dart</li><li><img src="https://img.icons8.com/fluent/24/000000/console.png"/> Shell</li><li><img src="https://img.icons8.com/color/24/000000/html-5.png"/> HTML</li><li><img src="https://img.icons8.com/color/24/000000/css3.png"/> CSS</li><li><img src="https://img.icons8.com/color/24/000000/json--v1.png"/> Json</li><li><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/> SQL</li></ul>
+     <table><tr>
+         <td  align = "center"><img src="https://i.ibb.co/Z243jtW/java.png" alt="java" border="0"><br>Java</td>
+         <td  align = "center"><img src="https://i.ibb.co/8BvfsCp/kotlin.png" alt="kotlin" border="0"><br>Kotlin</td>
+         <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
+         <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-programming.png"/><br>C</td>
+         </tr>
+         <tr>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/><br>C++</td>
+             <td  align = "center"><img src="https://i.ibb.co/gTdhjV3/matlab.png"/><br>Matlab</td>
+             <td  align = "center"><img src="https://i.ibb.co/P9K1CDZ/c-sharp.png"/><br>C#</td>
+             <td  align = "center"><img src="https://i.ibb.co/hBz8LSr/q-sharp.png"/><br>Q#</td></tr>
+         <tr>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/typescript.png"/><br>TypeScript</td>
+             <td  align = "center"><img src="https://i.ibb.co/GpjMcGZ/dart.png" alt="dart" border="0"><br>Dart</td>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/console.png"/><br>Shell</td>
+         </tr>
+             <tr>
+                 <td  align = "center"><img src="https://img.icons8.com/color/24/000000/html-5.png"/><br>HTML</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/css3.png"/><br>CSS</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/json--v1.png"/><br>Json</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
+         </tr>
+     </table>
         </details>
- <details>
+ <details align="center">
     <summary><strong>Tools and Technologies:</strong></summary>
-     <ul><li><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/> Android SDK</li><li><img src="https://img.icons8.com/color/24/000000/spring-logo.png"/> Spring Boot</li><li><img src="https://i.ibb.co/gTdhjV3/matlab.png"/> Matlab</li><li><img src="https://img.icons8.com/color/24/000000/ibm.png"/> Qiskit</li><li><img src="https://img.icons8.com/ios-filled/24/000000/physics.png"/> Physics Simulation</li><li><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"> OpenCV</li><li><img src="https://img.icons8.com/color/24/000000/google-logo.png"/> Tesseract OCR</li><li><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"> Jupyter Notebook</li><li><img src="https://img.icons8.com/color/24/000000/network-card.png"/> Network Programming</li><li><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/> Raspberry Pi</li><li><img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/> Unity</li><li><img src="https://img.icons8.com/color/24/000000/git.png"/> Git</li><li><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/> GitHub</li><li><img src="https://img.icons8.com/color/24/000000/amazon-web-services.png"/> AWS Could</li><li><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/> GCP Cloud</li><li><img src="https://img.icons8.com/color/24/000000/firebase.png"/> Firebase</li><li><img src="https://img.icons8.com/color/24/000000/docker.png"/> Docker</li><li><img src="https://img.icons8.com/fluent/24/000000/blockchain-new-logo.png"/> Blockchain</li><li><img src="https://i.ibb.co/n7nNkTC/arcore.png" alt="arcore" border="0"> AR Core</li><li><img src="https://i.ibb.co/Bc9Kh8r/Vuforia.png" alt="Vuforia" border="0"> Vuforia</li><li><img src="https://img.icons8.com/ios-filled/24/000000/sandbox.png"/> Virtualization</li><li><img src="https://img.icons8.com/cotton/24/000000/cloud-computing.png"/> Cloud Computing</li><li><img src="https://img.icons8.com/fluent/24/000000/database.png"/> Big Data</li><li><img src="https://img.icons8.com/color/24/000000/hadoop-distributed-file-system.png"/> Hadoop</li></ul>
-        </details>  
- <details>
+     <table>
+         <tr>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/><br>Android SDK</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/spring-logo.png"/> <br>Spring Boot</td>
+             <td  align = "center"><img src="https://i.ibb.co/gTdhjV3/matlab.png"/><br>Matlab</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/ibm.png"/><br>Qiskit</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/physics.png"/><br>Physics Simulation</td>
+             <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"><br>OpenCV</td>
+         </tr>
+             <tr>
+                 <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-logo.png"/><br>Tesseract OCR</td>
+             <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"><br>Jupyter Notebook</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Network Programming</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/><br>Unity</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
+             </tr>
+         <tr>
+            <td  align = "center"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/><br>GitHub</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/amazon-web-services.png"/><br>AWS Could</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/><br>GCP Cloud</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/firebase.png"/><br>Firebase</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/docker.png"/><br>Docker</td>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/blockchain-new-logo.png"/><br>Blockchain</td>
+         </tr>
+         <tr>
+             <td  align = "center"><img src="https://i.ibb.co/n7nNkTC/arcore.png" alt="arcore" border="0"><br>AR Core</td>
+             <td  align = "center"><img src="https://i.ibb.co/Bc9Kh8r/Vuforia.png" alt="Vuforia" border="0"><br>Vuforia</td>
+             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/sandbox.png"/><br>Virtualization</td>
+             <td  align = "center"><img src="https://img.icons8.com/cotton/24/000000/cloud-computing.png"/><br>Cloud Computing</td>
+             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/><br>Big Data</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/hadoop-distributed-file-system.png"/><br>Hadoop</td>
+         </tr>
+     </table>
+        </details>
+<details align="center">
     <summary><strong>Contact:</strong></summary>
-     <ul><li><a href="https://www.amannirala.com"><img src="https://img.icons8.com/fluent/24/000000/domain.png"/> Website</a></li><li><a href="https://www.linkedin.com/in/amannirala13"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/> LinkedIn</a><li><a href="https://www.instagram.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/> Instagram</a></li><li><a href="https://www.facebook.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/facebook-new.png"/> Facebook</a></li><li><a href="https://www.twitter.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"/> Twitter</a></li></ul</details>
+     <table>
+         <tr><td  align = "center"><a href="https://www.amannirala.com"><img src="https://img.icons8.com/fluent/24/000000/domain.png"/><br>Website</a></td>
+             <td  align = "center"><a href="https://www.linkedin.com/in/amannirala13"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><br>LinkedIn</a>
+             <td  align = "center"><a href="https://www.instagram.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/><br>Instagram</a></td>
+             <td  align = "center"><a href="https://www.facebook.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/facebook-new.png"/><br>Facebook</a></td>
+             <td  align = "center"><a href="https://www.twitter.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"/><br>Twitter</a></td>
+     </tr></table></details>
 
-
-<!--<a href="https://icons8.com/icon/91869/cloud-computing">Cloud Computing icon by Icons8</a> <a href="https://icons8.com/icon/KZHjwwenS7oK/database">Database icon by Icons8</a><a href="https://icons8.com/icon/69132/hadoop-distributed-file-system"> Hadoop Distributed File System icon by Icons8</a>
+<!--
 **amannirala13/amannirala13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
