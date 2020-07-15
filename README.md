@@ -6,7 +6,7 @@
 
  <details>
     <summary><strong>Programming Languages:</strong></summary>
-     <ul><li><img src="java.png"/> Java</li><li><img src="kotlin.png"/> Kotlin</li><li><img src="python.png"/> Python</li><li><img src="c.png"/> C/C++</li><li><img src="matlab.png"/> Matlab</li><li><img src="c_sharp.png"/> C#</li><li><img src="q_sharp.png"/> Q#</li><li>JS and TS</li><li>Dart</li><li>Shell</li><li>HTML</li><li>CSS</li><li>Json</li><li>SQL</li></ul>
+     <ul><li><img src="https://i.ibb.co/Z243jtW/java.png"/> Java</li><li><img src="https://i.ibb.co/8BvfsCp/kotlin.png"/> Kotlin</li><li><img src="https://i.ibb.co/sqwPMvX/python.png"/> Python</li><li><img src="https://i.ibb.co/dgVtcNc/c.png"/> C/C++</li><li><img src="https://i.ibb.co/gTdhjV3/matlab.png"/> Matlab</li><li><img src="https://i.ibb.co/P9K1CDZ/c-sharp.png"/> C#</li><li><img src="https://i.ibb.co/hBz8LSr/q-sharp.png"/> Q#</li><li>JS and TS</li><li>Dart</li><li>Shell</li><li>HTML</li><li>CSS</li><li>Json</li><li>SQL</li></ul>
         </details>
  <details>
     <summary><strong>Tools and Technologies:</strong></summary>
