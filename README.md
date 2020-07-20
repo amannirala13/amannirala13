@@ -75,7 +75,7 @@
              <td  align = "center"><a href="https://www.instagram.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/><br>Instagram</a></td>
              <td  align = "center"><a href="https://www.facebook.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/facebook-new.png"/><br>Facebook</a></td>
              <td  align = "center"><a href="https://www.twitter.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"/><br>Twitter</a></td>
-             <td  align = "center"><a href="asdevofficial@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
+             <td  align = "center"><a href="mailto:asdevofficial@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
      </tr>
     </table>
 </details>
