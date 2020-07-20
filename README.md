@@ -72,7 +72,7 @@
          <tr align="center">
              <td  align = "center"><a href="https://www.amannirala.com"><img src="https://img.icons8.com/fluent/24/000000/domain.png"/><br>Website</a></td>
              <td  align = "center"><a href="mailto:asdevofficial@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
-             <td  align = "center"><a href="mailto:amn1921010@sicsr.ac.in"><img src="https://img.icons8.com/ios-glyphs/24/000000/email-sign.png"/><br>Academic Email</a></td>
+             <td  align = "center"><a href="mailto:amn1921010@sicsr.ac.in"><img src="https://img.icons8.com/ios-glyphs/24/000000/email-sign.png"/><br>Academic<br> Email</a></td>
              <td  align = "center"><a href="https://www.linkedin.com/in/amannirala13"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><br>LinkedIn</a>
              <td  align = "center"><a href="https://www.instagram.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/><br>Instagram</a></td>
              <td  align = "center"><a href="https://www.facebook.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/facebook-new.png"/><br>Facebook</a></td>
