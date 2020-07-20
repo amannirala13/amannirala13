@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://i.ibb.co/F7K3p5N/amannirala13-namaste-light.jpg" alt="Namaste!"/>
-    <strong>I am a student of Computer Science at Symbiosis International University. Experienced in Android Development using Java and Kotlin, Blockchain Development, Computer Vision (Open CV), Physics Simulations, Computer Networks, Virtualization for Cloud Computing and Big Data, Data Science, Machine Learning, and Quantum Computing.</strong><br><br><img src="https://github-readme-stats.vercel.app/api?username=amannirala13&show_icons=true&hide_border=true" alt"Profile Stats"/>
+    <strong>I am a student of Computer Science at Symbiosis International University. Experienced in Android Development using Java and Kotlin, Blockchain Development, Computer Vision (Open CV), Physics Simulations, Computer Networks, Virtualization for Cloud Computing and Big Data, Data Science, Machine Learning, and Quantum Computing.</strong><br><br><img src="https://github-readme-stats.vercel.app/api?username=amannirala13&show_icons=true" alt"Profile Stats"/>
 </p><br>
 
 
