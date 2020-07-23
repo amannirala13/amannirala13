@@ -78,8 +78,8 @@
              <td  align = "center"><a href="https://www.facebook.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/facebook-new.png"/><br>Facebook</a></td>
              <td  align = "center"><a href="https://www.twitter.com/amannirala13"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"/><br>Twitter</a></td>
      </tr>
-         </details>
     </table>
+    </details>
 
 <!--
 **amannirala13/amannirala13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
