@@ -1,9 +1,8 @@
 <p align="center">
-    <img src="https://i.ibb.co/VYgJY9m/amannirala13-poster-anim-final.gif" alt="amannirala13-poster-anim-final" border="0">
+    <img src="https://i.ibb.co/VYgJY9m/amannirala13-poster-anim-final.gif" alt="amannirala13-poster-anim-final" border="0"/>
     <strong>I am a student of Computer Science at Symbiosis International University. Experienced in Android Development using Java and Kotlin, Blockchain Development, Computer Vision (Open CV), Physics Simulations, Computer Networks, Virtualization for Cloud Computing and Big Data, Data Science, Machine Learning, and Quantum Computing.</strong><br><br>
 </p><img src="https://github-readme-stats.vercel.app/api?username=amannirala13&show_icons=true&hide_border=true" alt="Profile Stats"/><br>
-![HitCount](http://hits.dwyl.com/amannirala13/amannirala13.svg)
-
+<img src="http://hits.dwyl.com/amannirala13/amannirala13.svg"/>
  <details align="center">
     <summary align="center"><strong>Programming Languages:</strong></summary>
      <table align="center">
@@ -20,7 +19,7 @@
          <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/typescript.png"/><br>TypeScript</td>
-             <td  align = "center"><img src="https://i.ibb.co/GpjMcGZ/dart.png" alt="dart" border="0"><br>Dart</td>
+             <td  align = "center"><img src="https://i.ibb.co/GpjMcGZ/dart.png" alt="dart" border="0"/><br>Dart</td>
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/console.png"/><br>Shell</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/html-5.png"/><br>HTML</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/css3.png"/><br>CSS</td>
@@ -38,11 +37,11 @@
              <td  align = "center"><img src="https://i.ibb.co/gTdhjV3/matlab.png"/><br>Matlab</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/ibm.png"/><br>Qiskit</td>
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/physics.png"/><br>Physics Simulation</td>
-             <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"><br>OpenCV</td>
+             <td  align = "center"><img src="https://i.ibb.co/f2Svrpk/opencv.png" alt="opencv" border="0"/><br>OpenCV</td>
          </tr>
          <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-logo.png"/><br>Tesseract OCR</td>
-             <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"><br>Jupyter Notebook</td>
+             <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"/><br>Jupyter Notebook</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/network-card.png"/><br>Network Programming</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/unity.png"/><br>Unity</td>
@@ -57,8 +56,8 @@
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/blockchain-new-logo.png"/><br>Blockchain</td>
          </tr>
          <tr align="center">
-             <td  align = "center"><img src="https://i.ibb.co/n7nNkTC/arcore.png" alt="arcore" border="0"><br>AR Core</td>
-             <td  align = "center"><img src="https://i.ibb.co/Bc9Kh8r/Vuforia.png" alt="Vuforia" border="0"><br>Vuforia</td>
+             <td  align = "center"><img src="https://i.ibb.co/n7nNkTC/arcore.png" alt="arcore" border="0"/><br>AR Core</td>
+             <td  align = "center"><img src="https://i.ibb.co/Bc9Kh8r/Vuforia.png" alt="Vuforia" border="0"/><br>Vuforia</td>
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/sandbox.png"/><br>Virtualization</td>
              <td  align = "center"><img src="https://img.icons8.com/cotton/24/000000/cloud-computing.png"/><br>Cloud Computing</td>
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/><br>Big Data</td>
