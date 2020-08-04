@@ -1,8 +1,8 @@
 <p align="center">
     <img src="https://i.ibb.co/VYgJY9m/amannirala13-poster-anim-final.gif" alt="amannirala13-poster-anim-final" border="0"/>
-    <strong>I am a student of Computer Science at Symbiosis International University. Experienced in Android Development using Java and Kotlin, Blockchain Development, Computer Vision (Open CV), Physics Simulations, Computer Networks, Virtualization for Cloud Computing and Big Data, Data Science, Machine Learning, and Quantum Computing.</strong><br><br>
-</p><img src="https://github-readme-stats.vercel.app/api?username=amannirala13&show_icons=true&hide_border=true" alt="Profile Stats"/>
-<img src="http://hits.dwyl.com/amannirala13/amannirala13.svg"/><br>
+    <strong>I am a student of Computer Science at Symbiosis International University. Experienced in Android Development using Java and Kotlin, Blockchain Development, Computer Vision (Open CV), Physics Simulations, Computer Networks, Virtualization for Cloud Computing and Big Data, Data Science, Machine Learning, and Quantum Computing.</strong>
+    <img src="http://hits.dwyl.com/amannirala13/amannirala13.svg"/><br><br>
+</p><img src="https://github-readme-stats.vercel.app/api?username=amannirala13&show_icons=true&hide_border=true" alt="Profile Stats"/><br>
  <details align="center">
     <summary align="center"><strong>Programming Languages:</strong></summary>
      <table align="center">
