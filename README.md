@@ -25,10 +25,8 @@
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/json--v1.png"/><br>Json</td>
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
          </tr>
-         <tr align="center" colspan=8><td>
-             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannirala13" alt="Most User Language"/></td>
-         </tr>
      </table>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannirala13" alt="Most User Language"/></p>
         </details>
  <details align="center">
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
