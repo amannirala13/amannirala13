@@ -26,7 +26,7 @@
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
          </tr>
      </table>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannirala13" alt="Most User Language"/></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amannirala13" alt="Most Used Language"/></p>
         </details>
  <details align="center">
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
