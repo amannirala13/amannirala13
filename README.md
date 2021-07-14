@@ -29,6 +29,7 @@
      </table>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannirala13&layout=compact" alt="Most Used Language"/></p>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=amannirala13" alt="Wakatime Language"/></p>
+    <figure><embed src="https://wakatime.com/share/@amannirala13/b6699a65-b6b6-4666-b09b-a14b07430e43.svg"></embed></figure>
         </details>
  <details align="center">
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
