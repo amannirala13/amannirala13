@@ -72,7 +72,6 @@
      <table align="center">
          <tr align="center">
              <td  align = "center"><a href="mailto:asdevofficial@gmail.com"><img src="https://img.icons8.com/color/24/000000/email-sign.png"/><br>Email</a></td>
-             <td  align = "center"><a href="mailto:amn1921010@sicsr.ac.in"><img src="https://img.icons8.com/ios-glyphs/24/000000/email-sign.png"/><br>Academic Email</a></td>
     </table>
     </details>
 
