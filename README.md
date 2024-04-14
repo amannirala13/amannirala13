@@ -27,6 +27,10 @@
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
          </tr>
      </table>
+     <strong>Badges</strong>
+     <a href="https://www.credly.com/badges/496e1bc9-de2a-43a1-ae1d-1be8b2362a88/public_url">
+         <img src="https://www.credly.com/badges/496e1bc9-de2a-43a1-ae1d-1be8b2362a88/public_url"/>
+     </a>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannirala13&layout=compact" alt="Most Used Language"/></p>
  <details align="center">
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
