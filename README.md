@@ -1,7 +1,25 @@
 <p align="center">
     <img src="https://i.ibb.co/VYgJY9m/amannirala13-poster-anim-final.gif" alt="amannirala13-poster-anim-final" border="0"/>
     <strong>I am a Master's student at Vellore Institute of Technology. Experienced in Android Development using Java and Kotlin, Full Stack Web development, Blockchain Development, Physics Simulations, Computer Networks and Quantum Computing.</strong><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=amannirala13&show_icons=true&hide_border=true" alt="Profile Stats"/>
+    <table>
+        <tr>
+            <td>
+               <img src="https://github-readme-stats.vercel.app/api?username=amannirala13&show_icons=true&hide_border=true" alt="Profile Stats"/> 
+            </td>
+            <td>
+                 <p>
+                      <div>
+                          <h2>Badges</h2>
+                      </div><br/>
+                      <div>
+                          <a href="https://www.credly.com/badges/496e1bc9-de2a-43a1-ae1d-1be8b2362a88/public_url">
+                              <img src="https://images.credly.com/size/128x128/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png"/>
+                          </a>
+                      </div>
+                 </p>
+            </td>
+        </tr>
+    </table>
  <details align="center">
 </p>
     <summary align="center"><strong>Programming Languages:</strong></summary>
@@ -27,10 +45,6 @@
              <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
          </tr>
      </table>
-     <strong>Badges</strong>
-     <a href="https://www.credly.com/badges/496e1bc9-de2a-43a1-ae1d-1be8b2362a88/public_url">
-         <img src="https://www.credly.com/badges/496e1bc9-de2a-43a1-ae1d-1be8b2362a88/public_url"/>
-     </a>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannirala13&layout=compact" alt="Most Used Language"/></p>
  <details align="center">
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
