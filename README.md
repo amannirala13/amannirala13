@@ -13,7 +13,7 @@
                       </div><br/>
                       <div>
                           <a href="https://www.credly.com/badges/496e1bc9-de2a-43a1-ae1d-1be8b2362a88/public_url">
-                              <img src="https://images.credly.com/size/680x680/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png"/>
+                              <img src="https://images.credly.com/size/128x128/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png"/>
                           </a>
                       </div>
                  </p>
