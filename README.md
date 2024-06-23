@@ -13,7 +13,7 @@
                       </div><br/>
                       <div>
                           <a href="https://www.credly.com/badges/496e1bc9-de2a-43a1-ae1d-1be8b2362a88/public_url">
-                              <img src="https://images.credly.com/size/128x128/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png"/>
+                              <img src="https://images.credly.com/size/680x680/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png"/>
                           </a>
                       </div>
                  </p>
