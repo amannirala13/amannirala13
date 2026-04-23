@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://i.ibb.co/VYgJY9m/amannirala13-poster-anim-final.gif" alt="amannirala13-poster-anim-final" border="0"/>
-    <strong>I am a Master's student at Vellore Institute of Technology. Experienced in Android Development using Java and Kotlin, Full Stack Web development, Blockchain Development, Physics Simulations, Computer Networks and Quantum Computing.</strong><br><br>
+    <strong>Building intelligent systems that bridge AI and human potential. AI Platform Engineer <a href="https://www.getsupernal.ai">@SupernalAI</a>. Postgrad <a href="https://vit.ac.in/">@VIT Vellore</a></strong><br><br>
     <table>
         <tr>
             <td>
